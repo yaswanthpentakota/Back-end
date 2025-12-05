@@ -11,8 +11,8 @@ const myfun = async () => {
     console.log("marks");
 
     const result = await getUserDetails("100");
-    console.log(result);  
-    console.log({ roll: "23A91A05F5" });
-};
+    console.log(result);
+    console.log({ roll: "23A91A05F5 hjfvgb" });
+}; 
 
 myfun();
